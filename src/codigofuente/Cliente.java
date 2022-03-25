@@ -1,6 +1,8 @@
 package codigofuente;
 
 public class Cliente {
+	
+	System.out.println("Hola mundo");
 
 	public static int ID_Cliente;
 	public static String Fecha_Llegada;
@@ -18,3 +20,5 @@ public class Cliente {
 		Fecha_Llegada = fecha_Llegada;
 	}
 }
+
+
